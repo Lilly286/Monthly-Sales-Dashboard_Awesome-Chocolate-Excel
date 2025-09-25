@@ -1,2 +1,3 @@
-# Monthly-Sales-Dashboard_Awesome-Chocolate-Excel
-The Monthly Sales Dashboard – Awesome Chocolate is an Excel-based interactive tool that analyzes and visualizes sales data. It provides a clear view of monthly performance, highlights trends, product insights, and KPIs, enabling managers to make data-driven decisions and identify growth opportunities.
+# Monthly-Sales-Dashboard Awesome Chocolate(Interactive dashboard using Excel)
+## Project Objective
+The objective of the Monthly Sales Dashboard – Awesome Chocolate is to provide a comprehensive and interactive view of monthly sales performance. It helps track revenue trends, evaluate product performance, monitor KPIs, and support management in making data-driven business decisions.
