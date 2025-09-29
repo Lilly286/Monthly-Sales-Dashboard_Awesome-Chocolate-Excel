@@ -22,7 +22,7 @@ The objective of the Monthly Sales Dashboard – Awesome Chocolate is to provide
 6.Why are KPIs important here?
 -They help managers make quick, smart, and data-driven decisions.
 ## DashBoard
-- <a href="https://drive.google.com/file/d/1vUZqYL5NbURd8aGGBu9keHbhK3tu2iRO/view?usp=drivesdk">View DashBoard</a>
+- <a href="https://drive.google.com/file/d/1UP8ErWDqYGqhLttJt9opiPZbxLVzc887/view?usp=drivesdk">View DashBoard</a>
 ## Process
 1.Collect Data
 - Sales data is collected for each month (products, revenue, quantity, etc.).
